@@ -1,0 +1,10 @@
+// IntelliJ Stuff
+.idea/*
+
+// Gradle Stuff
+build/*
+out/*
+.gradle/*
+
+// OSX
+.DS_Store
